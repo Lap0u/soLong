@@ -1,0 +1,35 @@
+/* XPM */
+static char *spare[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 13 1 ",
+"  c black",
+". c #EAEAEA",
+"X c #6994E7",
+"o c #E0E769",
+"O c #656565",
+"+ c #B2B2B2",
+"@ c #9C9A9A",
+"# c #CBD253",
+"$ c #4A75B0",
+"% c #E1E1E1",
+"& c gray58",
+"* c #B8B5B5",
+"= c #424141",
+/* pixels */
+"OOOO==OOOOOOOOO=",
+"OOOO=OOOOOOOOOOO",
+"OOOO=OOOOOOOOOOO",
+"OOOO=OOOOOOOOOOO",
+"OOO=OOOOOOOOOOOO",
+"OOO=OOOOOOOOOOOO",
+"OO=OOOOOOOOOOOOO",
+"===OOOOOOOOOOOOO",
+"OO=OOOOOOOOOOOOO",
+"OO=OOOOOOOOOOOOO",
+"OOO=OOOOOOOOOOOO",
+"OOOO==OOOOOOOOOO",
+"OOOOOO==OOOOOOOO",
+"OOOOOOOO=OOOOOOO",
+"OOOOOOOOO=OOOOOO",
+"OOOOOOOOO=O==OOO"
+};
